@@ -20,8 +20,8 @@ If you're using webpack / rollup / browserify / node:
 
 ```javascript
 var hljs = require('highlightjs');
-var hljsDefineSolidity = require('highlightjs-kdl');
+var hljsDefineKDL = require('highlightjs-kdl');
 
-hljsDefineSolidity(hljs);
+hljsDefineKDL(hljs);
 hljs.initHighlightingOnLoad();
 ```

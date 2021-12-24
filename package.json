@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-kdl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "highlight.js syntax definition for KDL",
   "main": "src/languages/kdl.js",
   "scripts": {
