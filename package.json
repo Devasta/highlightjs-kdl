@@ -1,13 +1,19 @@
 {
-  "name": "highlighjs-kdl",
-  "version": "1.0.0",
+  "name": "highlightjs-kdl",
+  "version": "1.0.2",
   "description": "highlight.js syntax definition for KDL",
-  "main": "index.js",
+  "main": "src/languages/kdl.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
-  "keywords": [],
-  "author": "",
-  "license": "MPL"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Devasta/highlighjs-kdl.git"
+  },
+  "keywords": ["KDL","highlight.js", "highlightjs", "syntax"],
+  "author": {
+    "name": "Daniel Murphy",
+    "email": "daniel@devasta.ie"
+  },
+  "license": " MPL-2.0"
 }
